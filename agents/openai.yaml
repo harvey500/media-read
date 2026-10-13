@@ -1,0 +1,4 @@
+interface:
+  display_name: "Media Read"
+  short_description: "Inspect image details and video evidence with timestamps"
+  default_prompt: "Use $media-read to inspect this image or video, verify relevant details, and report evidence and coverage limits."
